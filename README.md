@@ -1,7 +1,8 @@
 # react-native-products
 
-this is simple App created by **React Native** Fetch Some Random Data from Server and show in **FlatList** , 
-Basket Data Show in Modal
+this is simple App created by **React Native** Fetch Some Random Data from Server and show in **FlatList** Basket Data Show in Modal
+
+
 Rules off app
 - checkDuplicateData in Basket
 
