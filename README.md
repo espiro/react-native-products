@@ -6,7 +6,8 @@ this is simple App created by **React Native** Fetch Some Random Data from Serve
 Rules off app
 - checkDuplicateData in shopping cart
 - update products quantity add . remove item in shopping cart **will be added**
-
+- Calculate Some of item in shopping cart **will be added**
+ 
 > this project will improve soon
 > **some of features**
 >  - remove item from shopping cart
